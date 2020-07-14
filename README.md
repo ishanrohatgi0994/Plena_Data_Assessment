@@ -10,7 +10,7 @@ Directions to run code on Windows Platform
 
 2. type the 'location directory' of where this code was downloaded to run the python script.
 
-      Example-: 'Z:\code\hw01\script.py'
+      Example-: 'Z:\code\hw01\filename(here = String_Formatting).py'
 
 3. Prompt will ask user to enter string
 
