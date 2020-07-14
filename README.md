@@ -1,7 +1,7 @@
 # Plena_Data_Assessment
 Take home assessment for Plena Data
 
-Language - Python 3.7
+Language - Python 3.6
 
 Directions to run code
 1. Make sure to enter the working directory where this code is downloaded
